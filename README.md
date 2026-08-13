@@ -246,6 +246,3 @@ Two things worth checking, since the repo stores real data from testing:
 
 Developed as a mini-project at the **Department of Information Technology, Xavier Institute of Engineering, University of Mumbai**, under the guidance of **Dr. Chhaya Dhavale**.
 
-## 📄 License
-
-*Add a license (e.g. MIT) here if you intend to open-source this project.*
