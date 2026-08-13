@@ -1,0 +1,1 @@
+# Configuration and global variables
